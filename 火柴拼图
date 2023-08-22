@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T13:20:16.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Yaw-XDCgklGwStA-8kuZ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T13:21:02.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="8bGB4aaohQPLGikTZa4K" version="21.6.8" type="github">
   <diagram name="第 1 页" id="yrM2CBIvMsuXxyDxH1FT">
     <mxGraphModel dx="1904" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1839,6 +1839,15 @@
         </mxCell>
         <mxCell id="vmPJaSSUwXTxO4kKp2lV-80" value="三种茶杯的价格分别是5元、7 元和9元,三种茶盘的价格分别是2元4 元和5元,如果一个茶杯配一个茶盘,那么一共可以配成多少种不同价格的茶具?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="827" y="5620" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmPJaSSUwXTxO4kKp2lV-86" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle" vertex="1" parent="1">
+          <mxGeometry x="840" y="5720" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmPJaSSUwXTxO4kKp2lV-87" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle" vertex="1" parent="1">
+          <mxGeometry x="1005" y="5720" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vmPJaSSUwXTxO4kKp2lV-88" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.half_circle" vertex="1" parent="1">
+          <mxGeometry x="1160" y="5720" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
