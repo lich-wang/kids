@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T13:24:42.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="WuLJ1jwYDJA-fjaRZebO" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T13:39:30.641Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="J9ZBQJEdban8knj9keIl" version="21.6.8" type="github">
   <diagram name="第 1 页" id="yrM2CBIvMsuXxyDxH1FT">
-    <mxGraphModel dx="2381" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2122" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2613,6 +2613,60 @@
         </mxCell>
         <mxCell id="iUBJF2hXELVCw9OA4uA5-251" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="830" y="9515" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-275" value="下图正方形里有 5 只鸡:中间1只，四个角各1只。怎样在图中画一个正方形，把它们相互隔开?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="565" y="9730" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-276" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="600" y="9800" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-277" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="9810" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-278" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="9810" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-279" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="9980" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-280" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="9980" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-281" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="705" y="9895" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-282" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="9860" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-284" value="用一个平底锅煎饼,每次只能放两张饼。煎熟一张饼需要4分钟(正、反面各需要 2分钟)，请问煎熟3 张饼至少需要几分钟?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="530" y="10150" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-286" value="锅" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="10590" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-287" value="1 正面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-288" value="2 正面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="735" y="10220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-289" value="3 正面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="565" y="10330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-292" value="1 反面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="10330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-293" value="2 反面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="567" y="10450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-294" value="3 反面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="10450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-296" value="张老师和15个小朋友一起玩“猫捉老鼠”的游戏,现在已经捉到7个人,还有几个人没有被捉到?" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="515" y="10770" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iUBJF2hXELVCw9OA4uA5-297" value="15-7=8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="10830" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
