@@ -2,11 +2,13 @@ import itertools
 
 # 计算后的最大结果
 max_num = 100
+min_num = 10
 # 计算次数
-calc_step = 2
+calc_step = 1
 # 计算类型
 #calc_type = {'+', '-', '*', '/'}
-calc_type = {'+', '-'}
+#calc_type = {'+', '-'}
+calc_type = {'*', '/'}
 
 def generate_expressions(numbers, operators, depth, current_depth=1):
     if current_depth == depth:
@@ -19,7 +21,7 @@ def generate_expressions(numbers, operators, depth, current_depth=1):
 def is_valid_expression(expression, max_num):
     try:
         result = eval(expression)
-        return result > 10 and result < max_num and isinstance(result, int)
+        return result > min_num and result < max_num and isinstance(result, int)
     except (ValueError, ZeroDivisionError):
         return False
 
